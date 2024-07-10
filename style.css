@@ -1,0 +1,59 @@
+
+.first{
+    width: 800px;
+    margin-top: 70px;
+    margin-left: 250px;
+    border: solid 1px black;
+    padding-bottom: 20px;
+    background-color: white;
+}
+h1{
+    margin-left: 10px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(21, 222, 222);
+}
+.second{
+    margin-left: 20px;
+    background-color: gainsboro;
+   padding-bottom: 20px;
+   margin-right: 20px;
+}
+button{
+    background-color: rgb(14, 128, 14);
+    width: 730px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: none;
+    color: white;
+    font-weight: bolder;
+}
+p{
+    padding-left: 10px;
+}
+.three{
+    background-color: white;
+    padding: 10px;
+    margin-left: 3px;
+     margin-right: 3px;
+}
+.checkbox{
+    float: left; 
+}
+h2,p{
+    margin-left: 10px;
+}
+.input{
+    width: 700px;
+    background-color: white;
+    padding: 10px;
+}
+.input:hover,button:hover,.checkbox:hover{
+    cursor: pointer;
+}
+.input:focus{
+    background-color: aquamarine;
+}
